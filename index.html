@@ -13,8 +13,9 @@
     <!--Jumbotron-->
     <section>
         <div class="jumbotron jumbotron-fluid min-vh-100">
-            <video autoplay class="jumbotron-video" loop muted poster="assets/images/jumbotron-fallback.png" preload>
-                <source src="assets/videos/jumbotron-background-optimized.mp4" type="video/mp4">
+            <video autoplay class="jumbotron-video" id="jumbotron-video" loop muted
+                   poster="assets/images/jumbotron-fallback.png">
+                <source src="assets/videos/jumbotron-background-optimized.m4v" type="video/mp4">
                 <img alt="jumbotron image"
                      src="assets/images/jumbotron-fallback.png" title="Your browser does not support the <video> tag">
             </video>
@@ -36,7 +37,7 @@
                     <img alt="self-portrait" class="rounded mt-5" src="assets/images/my-portrait.jpg">
                     <p class="text-justify pt-3">Hello! My name is Amit Kohli, and I would like to welcome you to
                         my
-                        personal website. <span class="toggle-responsive">I created this website
+                        personal website. <span class="toggle-responsive d-inline">I created this website
                             so others can find out more information about me as opposed to just reading my resume. I
                             created
                             this website using
@@ -44,7 +45,7 @@
                             effort
                             to
                             avoid getting
-                                sidetracked and talking about tech-savvy topics. Going back to the original topic... </span>
+                            sidetracked and talking about tech-savvy topics. Going back to the original topic... </span>
                         In this website, I will give you a more in-depth insight about me. Thank you for viewing!</p>
                 </div>
             </div>
@@ -56,9 +57,8 @@
                         an
                         early age. <span class="toggle-responsive"> My dad used to purchase
                             computers for me to tinker with. </span> By high school, I become proficient with the
-                        hardware and
-                        software areas of computers. I would build and rebuild computers for fun.
-                        <span class="toggle-responsive"> In addition, I became
+                        hardware and software areas of computers.
+                        <span class="toggle-responsive d-inline"> In addition, I became
                             infatuated with different types of software
                             including operating and applications software. </span> But my curiosity did not end there, I
                         wanted
@@ -542,8 +542,8 @@
         </div>
     </section>
     <!--Contact-->
-    <section class="contact-section-background border-top" id="Contact">
-        <div class="container pt-5 bg-white min-vh-100 border border-top-0">
+    <section class="contact-section-background" id="Contact">
+        <div class="container pt-5 bg-info text-white min-vh-100">
             <div class="row pt-xl-5 pb-xl-5">
                 <div class="col-xl-12 text-center" data-aos="fade-down">
                     <h2>&mdash; <img alt="Contact image" class="img-fluid"
@@ -558,7 +558,7 @@
                 </div>
                 <div class="col-xl-2 text-center">
                     <h2>Phone:</h2>
-                    <h4><a href="tel:704-408-0498">704-408-0498</a></h4>
+                    <h4><a class="text-white" href="tel:704-408-0498">704-408-0498</a></h4>
                 </div>
             </div>
             <div class="row pt-xl-5 justify-content-center" data-aos="zoom-in-right">
@@ -567,7 +567,8 @@
                 </div>
                 <div class="col-xl-2 text-center">
                     <h2>Email:</h2>
-                    <h4><a href="mailto:amitkohli.official@gmail.com">amitkohli.official@gmail.com</a></h4>
+                    <h4><a class="text-white"
+                           href="mailto:amitkohli.official@gmail.com">amitkohli.official@gmail.com</a></h4>
                 </div>
             </div>
             <div class="row pt-xl-5 justify-content-center" data-aos="zoom-in-left">
@@ -576,7 +577,7 @@
                 </div>
                 <div class="col-xl-2 text-center">
                     <h2>Linkedin:</h2>
-                    <h4><a href="https://www.linkedin.com/in/amit-kohli-500878166/">View</a></h4>
+                    <h4><a class="text-white" href="https://www.linkedin.com/in/amit-kohli-500878166/">View</a></h4>
                 </div>
             </div>
         </div>

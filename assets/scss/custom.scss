@@ -33,8 +33,11 @@
 
 //Custom classes
 
+.min-vh-100 {
+  min-height: 100vh;
+}
 .navbar-footer-bg-color {
-  background-color: #5b6063;
+  background-color: #363b3e;
 }
 
 .alert-on-page {
@@ -88,6 +91,14 @@ section {
   min-height: 100vh;
 }
 
+footer a {
+  color: white;
+}
+
+footer a:hover {
+  color: #ced4da;
+}
+
 video {
   pointer-events: none;
 }
@@ -135,6 +146,10 @@ ul {
   }
 
   .toggle-responsive {
+    display: none;
+  }
+
+  #jumbotron-video {
     display: none;
   }
 }
