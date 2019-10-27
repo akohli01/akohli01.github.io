@@ -43,15 +43,12 @@
   text-decoration: none;
 }
 
-.contact-section-background {
-  background-image: url("../images/contact-section-background.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
+.display-on-smaller-screens {
+  display: none;
 }
 
-//LoadingBar.js override
-
+.display-only-on-larger-screens {
+}
 //HTML Tag styles override
 section {
   width: 100%;
@@ -73,8 +70,12 @@ ul {
 //Media Queries
 @media (max-width: 700px) {
 
-  .contact-section-background {
-    background-image: none;
+  .display-on-smaller-screens {
+    display: inline-block;
+  }
+
+  .display-only-on-larger-screens {
+    display: none;
   }
 }
 
