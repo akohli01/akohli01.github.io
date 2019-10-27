@@ -5,6 +5,10 @@
 .jumbotron {
   padding-top: 0;
   padding-bottom: 0;
+    background-image: url(../images/jumbotron-image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
 }
 
 .navbar {
@@ -13,20 +17,10 @@
   padding: 0;
 }
 
-.jumbotron-video {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  overflow: hidden;
-}
-
 .jumbotron-heading {
   position: absolute;
   top: 50%;
-  left: 0;
+    right: 0;
 }
 
 .min-vh-100 {
@@ -35,10 +29,6 @@
 
 .navbar-footer-bg-color {
     background-color: #363b3e;
-}
-
-.alert-on-page {
-  z-index: 300;
 }
 
 .resume-download {
@@ -50,35 +40,11 @@
   text-decoration: none;
 }
 
-.project-section-background {
-  background-image: url("../images/project-section-background.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-  width: 100%;
-}
-
 .contact-section-background {
   background-image: url("../images/contact-section-background.png");
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
-}
-
-.personal-skills-responsive {
-  display: none;
-}
-
-.min-height-100 {
-  min-height: 100%;
-}
-
-.alert-top-offset {
-  top: 56px;
-  z-index: 100;
-}
-
-.ldBar-label {
-  font-size: 1.5em;
 }
 
 section {
@@ -94,57 +60,14 @@ footer a:hover {
     color: #ced4da;
 }
 
-video {
-  pointer-events: none;
-}
-
 ul {
   list-style-type: square;
 }
 
-[data-carousel-3d] {
-  background: none;
-  border: none;
-  color: black;
-}
-
-[data-child-frame] {
-  border: none;
-}
-
-[data-child] {
-  background-color: white;
-  border-radius: 5%;
-}
-
-.toggle-responsive {
-  display: inline-block;
-}
-
 @media (max-width: 700px) {
-  .project-section-background {
-    background-image: none;
-  }
-
   .contact-section-background {
     background-image: none;
   }
-
-  [data-carousel-3d] {
-    display: none;
-  }
-
-  .personal-skills-responsive {
-    display: inline-block;
-  }
-
-  .toggle-responsive {
-    display: none;
-  }
-
-    #jumbotron-video {
-        display: none;
-    }
 }
 
 /*# sourceMappingURL=custom.css.map */

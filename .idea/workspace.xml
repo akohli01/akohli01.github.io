@@ -1,19 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+    <option name="CUSTOM_SCOPE_NAME" value="Project Files" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="35f878cb-70fb-491c-b1a7-b47c0b98cd9f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/CSS_Unused_Profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/custom.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/custom.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/attributions/email.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/attributions/email.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/attributions/linkedin.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/attributions/linkedin.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/jquery.carousel-3d.default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/loading-bar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/attributions/about-me-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/attributions/certification-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/attributions/contact-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/attributions/education-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/attributions/email.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/attributions/linkedin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/attributions/project-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/attributions/skills-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/attributions/smartphone.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/carousel/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/carousel/next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/carousel/prev.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/certifications/database-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/certifications/pc-troubleshooting-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/certifications/programming-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/certifications/project-management-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/certifications/user-interface-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/certifications/web-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/contact-section-background.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/images/email.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/email.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/jumbotron-fallback.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/images/linkedin.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/linkedin.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/section-heading-images/contact-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/section-heading-images/contact-icon.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/images/smartphone.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/smartphone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/my-portrait.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/project-section-background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/section-heading-images/about-me-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/section-heading-images/certification-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/section-heading-images/contact-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/section-heading-images/education-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/section-heading-images/project-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/section-heading-images/skills-icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/smartphone.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/scss/custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/videos/jumbotron-background-optimized.mp4" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/header.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -45,8 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/header.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1075">
-              <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+            <state relative-caret-position="500">
+              <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -54,8 +87,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/scss/custom.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3850">
-              <caret line="154" column="18" selection-start-line="154" selection-start-column="18" selection-end-line="154" selection-end-column="18" />
+            <state relative-caret-position="1725">
+              <caret line="69" column="16" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -63,8 +96,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="662">
-              <caret line="577" column="101" selection-start-line="577" selection-start-column="101" selection-end-line="577" selection-end-column="101" />
+            <state relative-caret-position="400">
+              <caret line="28" column="72" selection-start-line="28" selection-start-column="72" selection-end-line="28" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -81,8 +114,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="45" column="103" selection-start-line="45" selection-start-column="103" selection-end-line="45" selection-end-column="103" />
+            <state relative-caret-position="400">
+              <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -106,18 +139,16 @@
         <option value="$PROJECT_DIR$/assets/js/aos.js" />
         <option value="$PROJECT_DIR$/assets/css/custom.css" />
         <option value="$PROJECT_DIR$/assets/css/jquery.carousel-3d.default.css" />
-        <option value="$PROJECT_DIR$/header.html" />
         <option value="$PROJECT_DIR$/assets/scss/custom.scss" />
+        <option value="$PROJECT_DIR$/header.html" />
         <option value="$PROJECT_DIR$/footer.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds">
     <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -126,41 +157,29 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="Portfolio 2.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Portfolio 2.0" type="462c0819:PsiDirectoryNode" />
+              <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Portfolio" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Portfolio 2.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Portfolio 2.0" type="462c0819:PsiDirectoryNode" />
+              <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="Portfolio 2.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Portfolio 2.0" type="462c0819:PsiDirectoryNode" />
+              <item name="Portfolio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Portfolio" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Portfolio 2.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Portfolio 2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Portfolio 2.0" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Portfolio 2.0" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="scss" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -171,7 +190,8 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="run.code.analysis.last.selected.profile" value="pCSS Unused Profile" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -206,7 +226,11 @@
       <workItem from="1571271728010" duration="212000" />
       <workItem from="1571271959756" duration="762000" />
       <workItem from="1571346826211" duration="5238000" />
-      <workItem from="1571353322529" duration="931000" />
+      <workItem from="1571353322529" duration="1534000" />
+      <workItem from="1571761581888" duration="601000" />
+      <workItem from="1572114498177" duration="6840000" />
+      <workItem from="1572125686529" duration="1702000" />
+      <workItem from="1572182411855" duration="1760000" />
     </task>
     <task id="LOCAL-00001" summary="Fixed extra spacing on jumbotron.">
       <created>1571347324241</created>
@@ -215,17 +239,24 @@
       <option name="project" value="LOCAL" />
       <updated>1571347324241</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Updated look for contact section. Fixed text issues in about me section.">
+      <created>1571354351198</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1571354351198</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9157000" />
+    <option name="totallyTimeSpent" value="20663000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="0" width="1936" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26332623" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18496802" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -233,7 +264,7 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32900432" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.5746753" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -243,8 +274,9 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.19805194" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32900432" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" weight="0.48809522" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32900432" />
+      <window_info anchor="bottom" id="Inspection Results" order="13" sideWeight="0.49946696" weight="0.48809522" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -262,7 +294,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="Fixed extra spacing on jumbotron." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed extra spacing on jumbotron." />
+    <MESSAGE value="Updated look for contact section. Fixed text issues in about me section." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated look for contact section. Fixed text issues in about me section." />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -277,9 +310,6 @@
           </folding>
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor" />
@@ -317,17 +347,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/header.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1075">
-          <caret line="43" column="20" selection-start-line="43" selection-start-column="20" selection-end-line="43" selection-end-column="20" />
+        <state relative-caret-position="500">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/scss/custom.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3850">
-          <caret line="154" column="18" selection-start-line="154" selection-start-column="18" selection-end-line="154" selection-end-column="18" />
+        <state relative-caret-position="1725">
+          <caret line="69" column="16" selection-start-line="69" selection-start-column="16" selection-end-line="69" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -340,15 +373,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/footer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="45" column="103" selection-start-line="45" selection-start-column="103" selection-end-line="45" selection-end-column="103" />
+        <state relative-caret-position="400">
+          <caret line="16" column="52" selection-start-line="16" selection-start-column="52" selection-end-line="16" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="662">
-          <caret line="577" column="101" selection-start-line="577" selection-start-column="101" selection-end-line="577" selection-end-column="101" />
+        <state relative-caret-position="400">
+          <caret line="28" column="72" selection-start-line="28" selection-start-column="72" selection-end-line="28" selection-end-column="72" />
         </state>
       </provider>
     </entry>
@@ -414,6 +447,17 @@
         </settings>
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
         <settings>
           <splitter-proportions>
             <option name="proportions">
