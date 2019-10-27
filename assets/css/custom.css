@@ -5,10 +5,10 @@
 .jumbotron {
   padding-top: 0;
   padding-bottom: 0;
-    background-image: url(../images/jumbotron-image.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    width: 100%;
+  background-image: url(../images/jumbotron-image.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
 }
 
 .navbar {
@@ -20,15 +20,15 @@
 .jumbotron-heading {
   position: absolute;
   top: 50%;
-    right: 0;
+  right: 0;
 }
 
 .min-vh-100 {
-    min-height: 100vh;
+  min-height: 100vh;
 }
 
 .navbar-footer-bg-color {
-    background-color: #363b3e;
+  background-color: #363b3e;
 }
 
 .resume-download {
@@ -53,11 +53,11 @@ section {
 }
 
 footer a {
-    color: white;
+  color: white;
 }
 
 footer a:hover {
-    color: #ced4da;
+  color: #ced4da;
 }
 
 ul {
