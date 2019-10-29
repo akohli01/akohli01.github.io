@@ -2,6 +2,7 @@
 @import "../css/loading-bar.css";
 @import "../css/jquery.carousel-3d.default.css";
 @import "../css/aos.css";
+@import "../css/ihover.min.css";
 .jumbotron {
   padding-top: 0;
   padding-bottom: 0;
