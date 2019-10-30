@@ -44,11 +44,15 @@
   text-decoration: none;
 }
 
-.display-on-smaller-screens {
+.display-on-mobile-screens {
   display: none;
 }
 
-.display-only-on-larger-screens {
+.display-on-tablet-screens {
+  display: none;
+}
+
+.display-only-on-desktop-screens {
 }
 //HTML Tag styles override
 section {
@@ -69,16 +73,29 @@ ul {
 }
 
 //Media Queries
-@media (max-width: 700px) {
+@media (max-width: 768px) {
 
-  .display-on-smaller-screens {
+  .display-on-mobile-screens {
     display: inline-block;
   }
 
-  .display-only-on-larger-screens {
+  .display-only-on-desktop-screens {
     display: none;
   }
 }
+
+@media (max-width: 992px) {
+
+  .display-on-tablet-screens {
+    display: inline-block;
+  }
+
+  :hover {
+    hover: none;
+  }
+}
+
+
 
 
 
